@@ -139,6 +139,8 @@ From <https://www.reddit.com/r/learnprogramming/wiki/faq>
 
 <https://colab.research.google.com/>
 
+[Result from Class](coding_101.ipynb)
+
 ## Continued Learning
 
 ### Learning for Technical PM Job
