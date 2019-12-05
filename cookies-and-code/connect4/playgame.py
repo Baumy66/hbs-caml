@@ -4,10 +4,8 @@ import players
 # Input
 blackPlayer = players.FirstColumnAvailable()
 redPlayer = players.IfMovesWinsDoItElseRandom()
-gamesToTrain = 1000
 gamesToTest = 1000
 
-# Run Train
 blackWins = 0
 redWins = 0
 gamesPlayed = 0

@@ -136,22 +136,22 @@ class Board:
                 r = r + '   '
         print(r)
 
-#b = Board()
-#b.initialize()
-#os.system('cls')
+b = Board()
+b.initialize()
+os.system('cls')
 
-#b.printBoard()
-#winnerExists = False
+b.printBoard()
+winnerExists = False
 
 
-#while not winnerExists:
-#    b.solicateInput()
-#    os.system('cls')
-#    winnerExists = b.checkForWinner()
-#    if(winnerExists):
-#        if(winnerExists == b.RED):
-#            winner = "Red"
-#        else:
-#            winner = "Black"
-#        print(winner + " Wins Congratulations!")
-#    b.printBoard()
+while not winnerExists:
+    b.solicateInput()
+    os.system('cls')
+    winnerExists = b.checkForWinner()
+    if(winnerExists):
+        if(winnerExists == b.RED):
+            winner = "Red"
+        else:
+            winner = "Black"
+        print(winner + " Wins Congratulations!")
+    b.printBoard()
