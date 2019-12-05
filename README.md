@@ -1,4 +1,4 @@
-![alt text](/CAML-logo.png)
+![alt text](CAML-logo.png)
 
 # Overview
 Welcome to HBS's Coding, Analytics, and Machine Learning Github page. This is a repository for training, projects, and reference used by the club for use for members to collaborate.
