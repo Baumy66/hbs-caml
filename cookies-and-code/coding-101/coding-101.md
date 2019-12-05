@@ -97,10 +97,24 @@ This is the coding required to create a mobile App. There are the traditional wa
 #### Popular Mobile Languages and Frameworks
 
 - Objective C (iPhone)
+- Swift (iPhone)
 - Java (Android)
 - React Native
 
 ***
+
+From <https://www.reddit.com/r/learnprogramming/wiki/faq>
+
+|I want to learn how to...|Consider using...|
+|----|----|
+|...make iPhone Apps|Swift|
+|...make Android Apps|Java|
+|...build a website|JavaScript, CSS, HTML5|
+|...write Windows desktop applications|C#|
+|...make 2D/3D games|JavaScript, C#, or C++|
+|...program Arduinos/micro-controllers/robots|C|
+|...do scientific/mathematical computing or data analysis|Python, R, or Matlab|
+|...do automation and scripting	Many languages|Python, Ruby, Bash, Powershell|
 
 ## Python Introduction
 
@@ -120,3 +134,19 @@ This is the coding required to create a mobile App. There are the traditional wa
 - Google
 - Spotify (Native Application & Backend)
 - Instagram (Backend)
+
+## Let's Try it out
+
+<https://colab.research.google.com/>
+
+## Continued Learning
+
+### Learning for Technical PM Job
+
+- <https://www.firecode.io/>
+- <https://www.hackerrank.com/>
+
+### Learn for your own Project
+
+- <https://hackr.io/>
+- <https://bento.io/>
